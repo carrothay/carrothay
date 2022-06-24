@@ -20,8 +20,8 @@ I'm Hayoung, a beginner web developer. 🌱 <br>
 
 <h3 align="center">📧 Contact 📧</h3>
 <div align=center>
- <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-squre&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kim-hayoung-hazel/"/>&nbsp
- <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-squre&logo=Gmail&logoColor=white&link=mailto:hazel.hykim@gmail.com/"/>&nbsp
+ <a href="mailto:hazel.hykim@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=hazel.hykim@gmail.com"/></a>&nbsp
+ <a href="https://www.linkedin.com/in/kim-hayoung-hazel/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kim-hayoung-hazel/"/></a>&nbsp
 </div>
 
 <!-- hidden
