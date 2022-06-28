@@ -29,12 +29,13 @@ Welcome to my GitHub profile! I'm a beginner web developer. 🌱 <br>
 </p>
 
 <h3 align="center">📧 Contact 📧</h3>
-<div align=center>
+<div align="center">
  <a href="mailto:hazel.hykim@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=hazel.hykim@gmail.com"/></a>&nbsp
  <a href="https://www.linkedin.com/in/kim-hayoung-hazel/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kim-hayoung-hazel/"/></a>&nbsp
-</div>
+<br><br><br>
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carrothay&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 <!-- hidden
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=carrothay)](https://github.com/anuraghazra/github-readme-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carrothay&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
