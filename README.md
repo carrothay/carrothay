@@ -3,7 +3,7 @@
 
 <h3 align="center"> Hi there, I'm Hayoung 👋 </h3>
 <p align="center">
-Welcome to my GitHub profile and I'm a beginner web developer. 🌱 <br>
+Welcome to my GitHub profile! I'm a beginner web developer. 🌱 <br>
 <img height="100" src="https://raw.githubusercontent.com/carrothay/carrothay/main/images/cat.gif" alt="cat gif moving its tail." />
 </p>
 
