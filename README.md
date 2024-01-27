@@ -3,7 +3,7 @@
 
 <h3 align="center"> Hi there, I'm Hayoung 👋 </h3>
 <p align="center">
-Welcome to my GitHub profile! I'm a beginner web developer. 🌱 <br>
+Welcome to my GitHub profile! 🌱 <br>
 <img height="100" src="https://raw.githubusercontent.com/carrothay/carrothay/main/images/cat.gif" alt="cat gif moving its tail." />
 </p>
 
@@ -23,7 +23,6 @@ Welcome to my GitHub profile! I'm a beginner web developer. 🌱 <br>
  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-squre&logo=Python&logoColor=white"/>&nbsp
  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>&nbsp
- <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-squre&logo=ApacheTomcat&logoColor=white"/>&nbsp
 </p>
 
 <h3 align="center">📧 Contact 📧</h3>
