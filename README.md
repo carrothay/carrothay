@@ -7,11 +7,10 @@ Welcome to my GitHub profile! 🌱 <br>
 <!-- <img height="100" src="https://raw.githubusercontent.com/carrothay/carrothay/main/images/cat.gif" alt="cat gif moving its tail." /> -->
 </p>
 
-### About me 🐈
 ---
 
-- Software Engineering PaCE @ NTU, Singapore (11.23 ~)
-- Intern (Software Engineer) @ Sopra Steria Asia Pte. Ltd. (10.22 ~ 03.23)
+- Software Engineering SCTP @ NTU, Singapore (11.23 ~ 05.24)
+- Software Engineer Intern @ Sopra Steria Asia Pte. Ltd. (10.22 ~ 03.23)
 - Seeking a career switch to **Software Engineer** position
 <br><br><br>
 
