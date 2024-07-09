@@ -2,8 +2,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=dcd0ff&height=130&section=header&text=Hayoung&fontColor=FFFFF0&fontAlign=75&fontAlignY=40&fontSize=40)
 
 <h3 align="center">Kim Hayoung</h3>
-<p align="center">
-Welcome to my GitHub profile! 🌱 <br>
+<p>
+Hi! 🌱 <br>
+I've always had a knack for noticing the little things that make people smile, especially when it comes to crafting features that enhance user experiences. My journey into programming began in 2022 when I realized that my passion for helping colleagues with technical issues could be channeled into something more impactful. I started by learning how to manage websites and quickly became fascinated with the endless possibilities of programming. My curiosity led me to pursue further education and skill development at NTU SCTP, where I improved my skills in React, Java, and React Native. My six-month internship as a software engineer deepened my understanding of UI/UX and Agile Software Development. This continuous learning journey has been both challenging and rewarding, reinforcing my commitment to staying updated with the latest technology trends and making a positive impact through my work. <br>
 <!-- <img height="100" src="https://raw.githubusercontent.com/carrothay/carrothay/main/images/cat.gif" alt="cat gif moving its tail." /> -->
 </p>
 
