@@ -12,7 +12,7 @@ I've always had a knack for noticing the little things that make people smile, e
 
 - Software Engineering SCTP @ NTU, Singapore (11.23 ~ 05.24)
 - Software Engineer Intern @ Sopra Steria Asia Pte. Ltd. (10.22 ~ 03.23)
-- Seeking a career switch to **Software Engineer** position
+- Software Engineer (08.24 ~)
 <br><br><br>
 
 **Programming Language**
